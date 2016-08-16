@@ -1,1 +1,2 @@
-# test1
+# static
+static site test for jenkins
